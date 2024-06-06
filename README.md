@@ -12,6 +12,8 @@ MindMingle is an innovative platform designed to facilitate real-time, voice-bas
 
 Engage with MindMingle by simply speaking upon accessing the app through your browser. MindMingle attentively processes your voice input with an advanced AI model, offering you synthesized speech responses. This enables a seamless, ongoing dialogue with the AI. Moreover, your session notes are readily accessible for future reference, ensuring a comprehensive mental health support experience.
 
+App Link - <a href="https://mindmingle-ai.up.railway.app/">https://mindmingle-ai.up.railway.app/</a>
+
 ## Notes
 
 This project was developed as part of 36105 iLab: Capstone Project - Autumn 2024 by Sahil Kotak (sahil.kotak@student.uts.edu.au), Varun Singh Chettri (varun.s.chettri@student.uts.edu.au) and Prinston Mascarenhas (prinston.mascarenhas@student.uts.edu.au).
